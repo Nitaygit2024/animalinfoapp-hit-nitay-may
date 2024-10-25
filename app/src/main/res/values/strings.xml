@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animal Info</string>
+    <string name="search_hint">חיפוש חיות / Search for animals</string>
+    <string name="language_switch">Switch Language / החלף שפה</string>
+    <string name="animal_image">Animal Image</string>
+</resources>

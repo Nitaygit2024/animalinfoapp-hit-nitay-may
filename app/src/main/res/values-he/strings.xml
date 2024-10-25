@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animal Info</string>
+    <string name="search_hint">Search for animals</string>
+    <string name="language_switch">Switch Language to Hebrew</string>
+</resources>
